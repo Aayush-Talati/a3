@@ -1,3 +1,13 @@
+//CS480 2026 Summer Term
+//Assignment 3 - Disk Arm -sim arm.cpp file 
+
+//Team Members:
+//1. Aayush Talati, class account: cssc3161
+//2. Sparsh Mody, class account: cssc3001
+
+//Account used for testing:
+//cssc3161
+
 #include <iostream>
 #include <vector>
 #include <cstdlib>
